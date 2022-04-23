@@ -12,3 +12,10 @@
     padding-top: 1rem;
     width: 100%;
 }
+
+.botao--alternativo {
+    background-color: unset;
+    border: 1px solid var(--amarelo);
+    box-shadow: none;
+    color: var(--amarelo);
+}
